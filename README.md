@@ -8,3 +8,5 @@ Server:
 Device:
 - default uam password is 'uamsecret' (hardcoded)
 - use 'http://<IP_OR_HOSTNAME>/cgi-bin/hotspotlogin.cgi' as login page
+
+#Justinai ar jau nusipirkai BMW 540?
